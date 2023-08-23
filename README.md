@@ -1,4 +1,4 @@
-# Benchmark for GROMACS: Lysozeme in Water
+# Benchmark for GROMACS: Lysozyme in Water
 
 ### GPU Benchmark
 - Start the GROMACS container
